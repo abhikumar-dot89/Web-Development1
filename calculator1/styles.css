@@ -1,0 +1,38 @@
+body {
+  background-color: skyblue;
+}
+
+/* .top {
+  text-align: center;
+  border: 3px groove green;
+
+} */
+li {
+  display: inline;
+  padding: 20px;
+}
+/* .result {
+  border: 2px solid green;
+  width: 200px;
+  height: 30px;
+
+} */
+
+.heading1 {
+display: inline-block;
+color: Blue;
+position: absolute;
+left: 0;
+padding: 10px;
+
+
+}
+.heading2 {
+display: inline-block;
+color: Blue;
+position: absolute;
+right: 0;
+padding: 10px;
+
+
+}
